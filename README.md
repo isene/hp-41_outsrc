@@ -17,3 +17,6 @@ LBL b (Pe)	|Shows the productivity of the employee/mentor at time "t". This is P
 LBL C (G↑)	|Shows the accumulated gain/loss until time "t", i.e. the productivity of the consultant minus the productivity loss of the employee/mentor.
 LBL D (↑)	|Finds the break-even point, i.e. when the accumulated productivity loss of the employee/mentor is made up for by the accumulated productivity of the consultant.
 LBL E (\*)	|Go back to the menu.
+
+## License
+This software is released into the Public Domain.

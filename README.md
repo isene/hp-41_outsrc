@@ -1,11 +1,11 @@
-<img src="img/outsrc_logo.svg" align="left" width="150" height="150" alt="OUTSRC Logo">
-
 # hp-41_outsrc
 
 [![HP-41](https://img.shields.io/badge/HP--41-Calculator-orange)](https://en.wikipedia.org/wiki/HP-41C)
 [![License](https://img.shields.io/badge/License-Public%20Domain-brightgreen.svg)](https://unlicense.org/)
 [![GitHub stars](https://img.shields.io/github/stars/isene/hp-41_outsrc.svg)](https://github.com/isene/hp-41_outsrc/stargazers)
 [![Stay Amazing](https://img.shields.io/badge/Stay-Amazing-blue.svg)](https://isene.org)
+
+<img src="img/outsrc_logo.svg" align="left" width="150" height="150" alt="OUTSRC Logo">
 
 ## HP-41: Break-even analysis for outsourcing
 
